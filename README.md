@@ -1,6 +1,3 @@
-Here is a detailed and attractive `README.md` file for your Kafka Data Engineering Project:
-
-
 # Kafka Data Engineering Project
 
 ## Project Overview
