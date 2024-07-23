@@ -66,14 +66,3 @@ Here are some common issues and their solutions:
 - **Data Validation Errors**: Review the logs for any validation errors. Adjust the data generation logic in the producer script if necessary to ensure data integrity.
 - **AWS Credential Issues**: Make sure your AWS credentials are correctly configured and have the necessary permissions to access S3, Glue, and Athena services.
 
-## Acknowledgements
-This project is the result of a collaborative effort to provide a comprehensive learning experience in real-time data streaming and AWS integration. Special thanks to the contributors and the open-source community for their invaluable support and resources.
-
-We hope this project helps you understand the intricacies of data engineering and inspires you to explore more advanced topics in real-time data processing and cloud-based analytics.
-
----
-
-Feel free to reach out if you have any questions or need further assistance. Happy data streaming!
-```
-
-You can copy this content and paste it into your `README.md` file in your project directory. If you need further modifications or additional details, feel free to let me know!
